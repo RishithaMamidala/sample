@@ -12,17 +12,11 @@
             "width": 905
         },
         "pictures": [
-            "https://m.media-amazon.com/images/I/812dW0m-l+L._AC_UL1500_.jpg"
+            "http://placehold.it/32x32"
         ],
         "price": 16,
         "productId": "Womensdress",
-        "tags": [
-            "mollit",
-            "ad",
-            "eiusmod",
-            "irure",
-            "tempor"
-        ]
+
     },
     {
         "category": "sweets",
